@@ -1,0 +1,7 @@
+name = "DuctTape"
+uuid = "206d7a80-e456-4550-ba67-719349cb6587"
+authors = ["Myrl <myrl@marmarel.is>"]
+version = "0.1.0"
+
+[deps]
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
